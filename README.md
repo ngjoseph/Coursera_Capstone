@@ -1,5 +1,5 @@
 # Coursera_Capstone
-Captstone project for the IBM Data Science Speciaization
+Capstone project for the IBM Applied Data Science Specialization.
 
 ## Project Aim
 Compare neighbourhoods in the Toronto area using data from FourSquare.
