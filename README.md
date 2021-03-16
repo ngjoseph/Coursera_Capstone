@@ -17,7 +17,7 @@ Several python packages were used for this project, including the following:
 - Folium for map visualizations
 - Plotly, MatPlotLib for general data visualization
 - SciKitLearn for machine learning algorithms
----
+
 ## Data Sources
 - [Data{Meet} repository](https://github.com/datameet/Municipal_Spatial_Data) for ward level maps of Bangalore.
 - [FourSquare Places API](https://developer.foursquare.com/) for Points of Interest data.
