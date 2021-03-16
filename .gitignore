@@ -183,4 +183,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Temporary Cache Files
+*.db-shm
+*.db-wal
+data/cache/*
+
+
 # End of https://www.toptal.com/developers/gitignore/api/vscode,windows,python,jupyternotebooks
+references.txt
+TODO.txt
