@@ -188,7 +188,10 @@ $RECYCLE.BIN/
 *.db-wal
 data/cache/*
 
-
-# End of https://www.toptal.com/developers/gitignore/api/vscode,windows,python,jupyternotebooks
+# Temporary working files
 references.txt
 TODO.txt
+.DELETED/*
+
+# End of https://www.toptal.com/developers/gitignore/api/vscode,windows,python,jupyternotebooks
+
