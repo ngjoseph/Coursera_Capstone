@@ -193,5 +193,8 @@ references.txt
 TODO.txt
 .DELETED/*
 
+# Temporary Office files
+~*
+
 # End of https://www.toptal.com/developers/gitignore/api/vscode,windows,python,jupyternotebooks
 

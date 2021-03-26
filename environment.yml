@@ -1,0 +1,29 @@
+name: coursera_capstone
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - h3-py
+  - requests-cache
+  - jupyter
+  - tobler
+  - scikit-learn
+  - diskcache
+  - geojson
+  - folium
+  - tqdm
+  - beautifulsoup4
+  - numpy
+  - pyarrow
+  - geopandas
+  - ipywidgets
+  - geopy
+  - plotly
+  - nested-lookup
+  - ratelimiter
+  - pandas
+variables:
+  FOURSQUARE_CLIENT_ID:
+  FOURSQUARE_CLIENT_SECRET:
+  HERE_API_KEY:
